@@ -1,2 +1,3 @@
-# docker-frp
-Docker-compose files of frp server and frp client.
+# docker-compose-frp
+
+`docker-compose` files for  frp server and frp client.
